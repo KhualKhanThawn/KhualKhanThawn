@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhualKhanThawn
-- 👀 I’m interested in automation
+- 👀 I’m interested in test automation
 - 🌱 I’m currently learning selenium
 - 💞️ I’m looking to collaborate on automate software testing
 - 📫 How to reach me ..
